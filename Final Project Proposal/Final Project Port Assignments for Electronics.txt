@@ -1,0 +1,25 @@
+PORTB (6)
+Pin 0: Matrix Keypad R4
+Pin 1: Matrix Keypad R3
+Pin 2: Matrix Keypad R2
+Pin 3: Matrix Keypad R1
+Pin 4: (empty)
+Pin 5: (empty)
+
+PORTC (6)
+Pin 0: Temp Sensor
+Pin 1: Button
+Pin 2: Puzzle 3 LED 1
+Pin 3: Puzzle 3 LED 2
+Pin 4: Puzzle 3 LED 3
+Pin 5: Puzzle 3 LED 4
+
+PORTD (8)
+Pin 0: Puzzle Status LED1
+Pin 1: Puzzle Status LED2
+Pin 2: Puzzle Status LED3
+Pin 3: Servo
+Pin 4: 
+Pin 5: Matrix Keypad C3  
+Pin 6: Matrix Keypad C2 
+Pin 7: Matrix Keypad C1
